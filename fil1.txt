@@ -1,3 +1,5 @@
 This is my first line 
-So what do I know about git?
+
+
 Another line added...
+Third edit
