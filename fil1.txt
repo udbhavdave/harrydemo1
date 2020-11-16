@@ -4,4 +4,4 @@ This is my first line
 Another line added...
 Third edi
 fourth edit..
-branch=master
+branch=bran1
