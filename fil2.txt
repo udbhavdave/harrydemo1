@@ -1,1 +1,2 @@
 Added 2nd file..
+Resolved issue 2
